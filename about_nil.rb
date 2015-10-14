@@ -29,6 +29,7 @@ class AboutNil < Neo::Koan
     # THINK ABOUT IT:
     #
     # Is it better to use
+    # 
     #    obj.nil?
     # or
     #    obj == nil
